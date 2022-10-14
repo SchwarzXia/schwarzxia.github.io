@@ -84,6 +84,9 @@ body,html {
     padding-top:20vh;
 }
 #tagline {
+    margin: 0 auto;
+    text-align: center;
+
     font-size:50px;
     width:60%;
 }
